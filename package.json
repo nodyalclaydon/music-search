@@ -1,6 +1,6 @@
 {
   "name": "music-search",
-  "homepage": "https://nodyalclaydon.github.io/music-search/"
+  "homepage": "https://nodyalclaydon.github.io/music-search/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
